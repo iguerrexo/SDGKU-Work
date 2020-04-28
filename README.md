@@ -1,1 +1,1 @@
-# SDGKU-Work
+San Diego Global Knowledge University Assignments
