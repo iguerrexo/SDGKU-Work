@@ -1,0 +1,76 @@
+h1{
+    color: yellow;
+    background-color:orange;
+    text-align: center;
+    text-shadow:3px 3px cadetblue;
+    font-size: 50px;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h2{
+    Color:cadetblue;
+    background-color:orange;
+    text-align: left;
+    letter-spacing: 3px;
+    font-size: 30px;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;  
+}
+
+h3{
+    Color:cadetblue;
+    background-color:orange;
+    text-align: center;
+    letter-spacing: 3px;
+    font-size: 30px;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;  
+}
+
+h4{
+    text-align: center;
+    font-size: 24px;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;  
+}
+
+p{
+    text-align: justify;
+    text-indent: 10px;
+    background-color: white;
+    font-size: 18px;
+    width:80%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+body{
+    text-align: center;
+}
+
+ul{
+    font-family: 'Open Sans', sans-serif;
+    text-align: left;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;  
+}
+
+ol{
+    font-family: 'Open Sans', sans-serif;;
+    text-align: left;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;  
+}
+
+hr{
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto 
+}
